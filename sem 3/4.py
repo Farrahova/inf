@@ -17,6 +17,5 @@ y=0
 for i in range (-20,20):
     x=i
     y=(d-a1*x)/b1
-    if
     print(x,y)
 
