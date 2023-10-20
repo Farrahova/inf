@@ -32,7 +32,6 @@ c = a + b
 d = a - b
 e=a @ b
 
-
 print(c.x, c.y, c.z)
 print(d.x, d.y, d.z)
 print(e.x, e.y, e.z)
